@@ -1,5 +1,5 @@
 # README
 
-https://github.com/Estibalyz/MineriaDeDatos/blob/master/MapaMental_1_1809399.pdf
+[Mapa Mental 1] https://github.com/Estibalyz/MineriaDeDatos/blob/master/MapaMental_1_1809399.pdf
 
 https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Presentacion_Clasificacion_Equipo2.pdf
