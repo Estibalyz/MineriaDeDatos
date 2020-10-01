@@ -8,4 +8,4 @@
 
 [Resumenes_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Resumenes_1809399.pdf)
 
-[MapaMental_2_1809399]()
+[MapaMental_2_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/MapaMental_2_1809399.pdf)
