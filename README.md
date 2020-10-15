@@ -9,3 +9,5 @@
 [Resumenes_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Resumenes_1809399.pdf)
 
 [MapaMental_2_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/MapaMental_2_1809399.pdf)
+
+[AnalisisBD_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AnalisisBD_1809399.pdf)
