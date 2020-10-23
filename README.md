@@ -17,4 +17,4 @@
 
 [AnalisisBD_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AnalisisBD_1809399.pdf)
 
-[PynthonBasico_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/PythonBasico_1809399.ipynb)
+[PythonBasico_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/PythonBasico_1809399.ipynb)
