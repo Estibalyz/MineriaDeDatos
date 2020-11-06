@@ -21,4 +21,7 @@
 
 [Avance-1_PIA_10_003](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Avance1-PIA_10_003.pdf)
 
+
+## Etapa3
+
 [AvancePIA_II_003_10](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AvancePIA_II_003_10.ipynb)
