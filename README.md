@@ -20,3 +20,5 @@
 [PythonBasico_1809399](https://github.com/Estibalyz/MineriaDeDatos/blob/master/PythonBasico_1809399.ipynb)
 
 [Avance-1_PIA_10_003](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Avance1-PIA_10_003.pdf)
+
+[AvancePIA_II_003_10](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AvancePIA_II_003_10.ipynb)
