@@ -21,6 +21,8 @@
 
 [Avance-1_PIA_10_003](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Avance1-PIA_10_003.pdf)
 
+[Ejercicio Python Mineria de datos](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Ejercicios%20Python%20Mineria%20de%20datos.ipynb)
+
 
 ## Etapa3
 
