@@ -29,3 +29,5 @@
 [AvancePIA_II_003_10](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AvancePIA_II_003_10.ipynb)
 
 [AvancePIA_II_003_10_final](https://github.com/Estibalyz/MineriaDeDatos/blob/master/AvancePIA_II_003_10_final.ipynb)
+
+[PIA_003_10](https://github.com/Estibalyz/MineriaDeDatos/blob/master/Poster_003_10.pdf)
